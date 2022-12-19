@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @MeckeDev
 - 👀 I’m interested in Twitch Bots and smaller Tools like my [BKH tracker](https://github.com/MeckeDev/BKH-Tracker) (A Tool to track the Dropchance of an Item)
-- 🌱 I’m currently learning Python, Javascript, PHP and a bit of SQWL
+- 🌱 I’m currently learning Python, Javascript, PHP and a bit of SQL
 - 📫 How to reach me: the easiest Way is [Steam](https://steamcommunity.com/id/mecke_dev/) or meckedev@gmail.com
